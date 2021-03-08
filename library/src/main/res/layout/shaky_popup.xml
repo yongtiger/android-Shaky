@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="@dimen/shaky_content_area_padding"
+              android:layout_marginBottom="@dimen/shaky_content_area_padding"
+              android:id="@+id/shaky_root">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shaky_img_mobile_phone_56dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/shaky_dialog_title"
+        android:paddingTop="@dimen/shaky_button_padding"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/shaky_title_padding"
+        android:paddingBottom="@dimen/shaky_content_area_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shaky_dialog_title"
+            android:gravity="start"
+            android:textAlignment="textStart"
+            android:paddingBottom="@dimen/shaky_title_padding"
+            android:textSize="@dimen/shaky_title_textsize"
+            android:textColor="?attr/shakyPopupTitleColor"
+            android:id="@+id/shaky_dialog_title"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shaky_dialog_message"
+            android:gravity="start"
+            android:textAlignment="textStart"
+            android:textSize="@dimen/shaky_content_textsize"
+            android:textColor="?attr/shakyPopupContentColor"
+            android:id="@+id/shaky_dialog_message"/>
+
+    </LinearLayout>
+
+</LinearLayout>

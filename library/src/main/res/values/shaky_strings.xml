@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- i18n-resource -->
+<resources>
+    <string name="shaky_dialog_title">Shake to send feedback</string>
+    <string name="shaky_dialog_message">You shook your device! Would you like to send feedback about your experience?</string>
+    <string name="shaky_dialog_positive">Send Feedback</string>
+    <string name="shaky_dialog_negative">Dismiss</string>
+
+    <string name="shaky_feedback_title">Send feedback</string>
+
+    <string name="shaky_collecting_feedback">Collecting debug data…</string>
+
+    <string name="shaky_row1_title">Report a bug</string>
+    <string name="shaky_row1_subtitle">Something doesn’t seem quite right.</string>
+    <string name="shaky_bug_title">Bug Report</string>
+    <string name="shaky_bug_hint">Describe the bug</string>
+
+    <string name="shaky_row2_title">Request a new feature</string>
+    <string name="shaky_row2_subtitle">It would be super cool if…</string>
+    <string name="shaky_feature_title">Feature Request</string>
+    <string name="shaky_feature_hint">Write your request</string>
+
+    <string name="shaky_row3_title">Send app feedback</string>
+    <string name="shaky_row3_subtitle">Tell us how we’re doing!</string>
+    <string name="shaky_general_title">General Feedback</string>
+    <string name="shaky_general_hint">Write your feedback</string>
+
+    <string name="shaky_message_hint">Write your feedback</string>
+    <string name="shaky_image_action">Tap to edit image</string>
+
+    <string name="shaky_form_submit">Send</string>
+
+    <string name="shaky_draw_hint">Please mark the affected area(s)</string>
+    <string name="shaky_draw_save">save</string>
+    <string name="shaky_draw_clear">clear</string>
+    <string name="shaky_draw_brush">brush</string>
+    <string name="shaky_draw_undo">undo</string>
+    <string name="shaky_draw_brush_white">whiteout</string>
+    <string name="shaky_draw_brush_hint">Toggles the brush style</string>
+
+    <string name="shaky_empty_feedback_message">Please write your feedback.</string>
+    <string name="shaky_empty_feedback_confirm">OK</string>
+
+    <string name="shaky_sensitivity_high">High</string>
+    <string name="shaky_sensitivity_medium">Medium</string>
+    <string name="shaky_sensitivity_low">Low</string>
+    <string name="shaky_sensor_sensitivity">Sensor Sensitivity</string>
+
+    <string name="shaky_setting">Settings</string>
+    <string name="shaky_general_ok_string">OK</string>
+
+    <string name="shaky_select_subcategory">Select a subcategory</string>
+    <string-array name="shaky_bug_subcategories">
+        <item>The app crashed</item>
+        <item>Something is broken</item>
+    </string-array>
+    <string name="shaky_subcategory_not_selected_message">Please select a subcategory</string>
+</resources>

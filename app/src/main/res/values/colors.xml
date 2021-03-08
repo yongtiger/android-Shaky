@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dark_blue" type="color">#0077B5</item>
+    <item name="blue" type="color">#00A0DC</item>
+
+    <!-- Christmas theme -->
+    <item name="green" type="color">#1E913A</item>
+    <item name="light_red" type="color">#F86262</item>
+    <item name="red" type="color">#DA1818</item>
+</resources>

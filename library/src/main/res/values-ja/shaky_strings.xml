@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- i18n-derived -->
+<!-- i18n-resource -->
+<resources>
+    <string name="shaky_dialog_title">シェイクフィードバック送信</string>
+    <string name="shaky_dialog_message">スマホをシェイクされました。フィードバックを送信されますか?</string>
+    <string name="shaky_dialog_positive">はい、送信します</string>
+    <string name="shaky_dialog_negative">いいえ</string>
+
+    <string name="shaky_feedback_title">フィードバックを送信する</string>
+
+    <string name="shaky_collecting_feedback">データを収集しています…</string>
+
+    <string name="shaky_row1_title">不具合を報告</string>
+    <string name="shaky_row1_subtitle">エラー/不具合を報告します。</string>
+    <string name="shaky_bug_title">不具合の報告</string>
+    <string name="shaky_bug_hint">問題について説明してください</string>
+
+    <string name="shaky_row2_title">新機能をリクエスト</string>
+    <string name="shaky_row2_subtitle">あったら良いと思う機能をリクエストします。</string>
+    <string name="shaky_feature_title">新機能のリクエスト</string>
+    <string name="shaky_feature_hint">リクエストを記入してください</string>
+
+    <string name="shaky_row3_title">フィードバックを送信</string>
+    <string name="shaky_row3_subtitle">意見または感想を送信します。</string>
+    <string name="shaky_general_title">一般的なフィードバック</string>
+    <string name="shaky_general_hint">フィードバックを記入してください</string>
+
+    <string name="shaky_message_hint">フィードバックを記入してください</string>
+    <string name="shaky_image_action">タップして画像を編集</string>
+
+    <string name="shaky_form_submit">送信</string>
+
+    <string name="shaky_draw_hint">該当する箇所をマークしてください。</string>
+    <string name="shaky_draw_save">保存</string>
+    <string name="shaky_draw_clear">クリア</string>
+    <string name="shaky_draw_brush">ブラシ</string>
+    <string name="shaky_draw_undo">元に戻す</string>
+    <string name="shaky_draw_brush_white">白で修正</string>
+    <string name="shaky_draw_brush_hint">ブラシのスタイルを切り替え</string>
+
+    <string name="shaky_empty_feedback_message">フィードバックを記入してください。</string>
+    <string name="shaky_empty_feedback_confirm">OK</string>
+
+    <string name="shaky_sensitivity_high">高</string>
+    <string name="shaky_sensitivity_medium">中</string>
+    <string name="shaky_sensitivity_low">低</string>
+    <string name="shaky_sensor_sensitivity">センサー感度</string>
+
+    <string name="shaky_setting">設定</string>
+    <string name="shaky_general_ok_string">OK</string>
+
+    <string name="shaky_select_subcategory">サブカテゴリーを選択</string>
+    <string-array name="shaky_bug_subcategories">
+        <item>アプリがクラッシュした</item>
+        <item>不具合がある</item>
+    </string-array>
+    <string name="shaky_subcategory_not_selected_message">サブカテゴリーを選択してください</string>
+</resources>

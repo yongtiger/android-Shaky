@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Common -->
+    <attr name="shakyBackgroundColor" format="reference|color" />
+    <attr name="shakyTitleColor" format="reference|color" />
+    <attr name="shakyContentColor" format="reference|color" />
+    <attr name="shakyToolbarTheme" format="reference" />
+    <attr name="shakyToolbarSize" format="reference|dimension" />
+
+    <!-- Category Select -->
+    <attr name="shakySelectBackgroundColor" format="reference|color" />
+    <attr name="shakyCategoryListItemTitleColor" format="reference|color" />
+    <attr name="shakyCategoryListItemSubtitleColor" format="reference|color" />
+
+    <!-- Image Editor -->
+    <attr name="shakyImageEditorBackgroundColor" format="reference|color" />
+    <attr name="shakyImageEditorButtonTheme" format="reference" />
+    <attr name="shakyImageEditorButtonColor" format="reference|color" />
+    <attr name="shakyImageEditorButtonTextColor" format="reference|color" />
+
+    <!-- Feedback Form -->
+    <attr name="shakyFormBackgroundColor" format="reference|color" />
+    <attr name="shakyFormDropdownTextColor" format="reference|color" />
+    <attr name="shakyFormDropdownBackgroundColor" format="reference|color" />
+    <attr name="shakyFormEditTextTextColor" format="reference|color" />
+    <attr name="shakyFormEditTextHintColor" format="reference|color" />
+    <attr name="shakyFormEditTextBackgroundColor" format="reference|color" />
+    <attr name="shakyFormEditTextAccentColor" format="reference|color" />
+
+    <!-- AlertDialog -->
+    <attr name="shakyAlertDialogTheme" format="reference" />
+<!--    <attr name="shakyAlertDialogBackgroundColor" format="reference|color" />-->
+<!--    <attr name="shakyAlertDialogTextColor" format="reference|color" />-->
+<!--    <attr name="shakyAlertDialogButtonColor" format="reference|color" />-->
+
+    <!-- Shake Pop-up -->
+    <attr name="shakyPopupBackgroundColor" format="reference|color" />
+    <attr name="shakyPopupTitleColor" format="reference|color" />
+    <attr name="shakyPopupContentColor" format="reference|color" />
+    <attr name="shakyPopupButtonColor" format="reference|color" />
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shaky_dark_gray" type="color">#313335</item>
+    <item name="shaky_gray" type="color">#86888A</item>
+    <item name="shaky_blue" type="color">#00A0DC</item>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- i18n-derived -->
+<!-- i18n-resource -->
+<resources>
+    <string name="shaky_dialog_title">Agita el teléfono para enviar comentarios</string>
+    <string name="shaky_dialog_message">Has agitado tu teléfono. ¿Quieres enviar comentarios sobre tu experiencia?</string>
+    <string name="shaky_dialog_positive">Enviar comentarios</string>
+    <string name="shaky_dialog_negative">Descartar</string>
+
+    <string name="shaky_feedback_title">Enviar comentarios</string>
+
+    <string name="shaky_collecting_feedback">Recopilando información sobre errores </string>
+
+    <string name="shaky_row1_title">Informar de un error</string>
+    <string name="shaky_row1_subtitle">Algo no está bien.</string>
+    <string name="shaky_bug_title">Informe de error</string>
+    <string name="shaky_bug_hint">Describe el error</string>
+
+    <string name="shaky_row2_title">Solicita una funcionalidad nueva</string>
+    <string name="shaky_row2_subtitle">Estaría muy bien si…</string>
+    <string name="shaky_feature_title">Solicitud de funcionalidad</string>
+    <string name="shaky_feature_hint">Escribe tu solicitud</string>
+
+    <string name="shaky_row3_title">Envía comentarios sobre la aplicación</string>
+    <string name="shaky_row3_subtitle">Danos tu opinión.</string>
+    <string name="shaky_general_title">Comentarios en general</string>
+    <string name="shaky_general_hint">Escribe tus comentarios</string>
+
+    <string name="shaky_message_hint">Escribe tus comentarios</string>
+    <string name="shaky_image_action">Toca para editar la imagen</string>
+
+    <string name="shaky_form_submit">Enviar</string>
+
+    <string name="shaky_draw_hint">Señala las zonas afectadas.</string>
+    <string name="shaky_draw_save">guardar</string>
+    <string name="shaky_draw_clear">borrar</string>
+    <string name="shaky_draw_brush">pincel</string>
+    <string name="shaky_draw_undo">deshacer</string>
+    <string name="shaky_draw_brush_white">borrar</string>
+    <string name="shaky_draw_brush_hint">Alternar el estilo de pincel</string>
+
+    <string name="shaky_empty_feedback_message">Escribe tus comentarios</string>
+    <string name="shaky_empty_feedback_confirm">Aceptar</string>
+
+    <string name="shaky_sensitivity_high">Alta</string>
+    <string name="shaky_sensitivity_medium">Media</string>
+    <string name="shaky_sensitivity_low">Baja</string>
+    <string name="shaky_sensor_sensitivity">Sensibilidad del sensor</string>
+
+    <string name="shaky_setting">Configuración</string>
+    <string name="shaky_general_ok_string">Aceptar</string>
+
+    <string name="shaky_select_subcategory">Selecciona una subcategoría</string>
+    <string-array name="shaky_bug_subcategories">
+        <item>La aplicación ha fallado</item>
+        <item>Algo no está bien</item>
+    </string-array>
+    <string name="shaky_subcategory_not_selected_message">Selecciona una subcategoría</string>
+</resources>

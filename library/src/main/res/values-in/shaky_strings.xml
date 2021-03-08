@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- i18n-derived -->
+<!-- i18n-resource -->
+<resources>
+    <string name="shaky_dialog_title">Goyangkan ponsel untuk mengirim feedback</string>
+    <string name="shaky_dialog_message">Ponsel Anda bergoyang! Ingin mengirim feedback tentang pengalaman Anda?</string>
+    <string name="shaky_dialog_positive">Kirim Feedback</string>
+    <string name="shaky_dialog_negative">Abaikan</string>
+
+    <string name="shaky_feedback_title">Kirim feedback</string>
+
+    <string name="shaky_collecting_feedback">Mengumpulkan data debug…</string>
+
+    <string name="shaky_row1_title">Laporkan bug</string>
+    <string name="shaky_row1_subtitle">Sesuatu tampak salah.</string>
+    <string name="shaky_bug_title">Laporan Bug</string>
+    <string name="shaky_bug_hint">Deskripsikan bug</string>
+
+    <string name="shaky_row2_title">Minta fitur baru</string>
+    <string name="shaky_row2_subtitle">Ini akan lebih keren seandainya…</string>
+    <string name="shaky_feature_title">Permintaan Fitur</string>
+    <string name="shaky_feature_hint">Tulis permintaan Anda</string>
+
+    <string name="shaky_row3_title">Kirim feedback aplikasi</string>
+    <string name="shaky_row3_subtitle">Beritahu pendapat Anda!</string>
+    <string name="shaky_general_title">Feedback Umum</string>
+    <string name="shaky_general_hint">Tulis feedback Anda</string>
+
+    <string name="shaky_message_hint">Tulis feedback Anda</string>
+    <string name="shaky_image_action">Tekan untuk menyunting gambar</string>
+
+    <string name="shaky_form_submit">Kirim</string>
+
+    <string name="shaky_draw_hint">Silakan tandai area yang terkena dampak</string>
+    <string name="shaky_draw_save">simpan</string>
+    <string name="shaky_draw_clear">hapus</string>
+    <string name="shaky_draw_brush">brush</string>
+    <string name="shaky_draw_undo">batalkan</string>
+    <string name="shaky_draw_brush_white">whiteout</string>
+    <string name="shaky_draw_brush_hint">Ganti gaya brush</string>
+
+    <string name="shaky_empty_feedback_message">Harap tulis feedback Anda.</string>
+    <string name="shaky_empty_feedback_confirm">OK</string>
+
+    <string name="shaky_sensitivity_high">Tinggi</string>
+    <string name="shaky_sensitivity_medium">Sedang</string>
+    <string name="shaky_sensitivity_low">Rendah</string>
+    <string name="shaky_sensor_sensitivity">Sensitivitas Sensor</string>
+
+    <string name="shaky_setting">Pengaturan</string>
+    <string name="shaky_general_ok_string">OKE</string>
+
+    <string name="shaky_select_subcategory">Pilih subkategori</string>
+    <string-array name="shaky_bug_subcategories">
+        <item>Aplikasi berhenti mendadak</item>
+        <item>Terjadi kesalahan</item>
+    </string-array>
+    <string name="shaky_subcategory_not_selected_message">Silakan pilih subkategori</string>
+</resources>
