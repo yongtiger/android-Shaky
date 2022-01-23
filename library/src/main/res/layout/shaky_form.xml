@@ -24,8 +24,8 @@
             android:clickable="true"
             android:focusable="true"
             android:orientation="vertical"
-            android:paddingLeft="@dimen/shaky_content_area_padding"
-            android:paddingRight="@dimen/shaky_content_area_padding"
+            android:paddingStart="@dimen/shaky_content_area_padding"
+            android:paddingEnd="@dimen/shaky_content_area_padding"
             android:paddingTop="@dimen/shaky_content_top_padding"
             tools:context=".FeedbackActivity">
 

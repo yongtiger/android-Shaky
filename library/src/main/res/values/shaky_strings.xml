@@ -12,7 +12,7 @@
     <string name="shaky_collecting_feedback">Collecting debug data…</string>
 
     <string name="shaky_row1_title">Report a bug</string>
-    <string name="shaky_row1_subtitle">Something doesn’t seem quite right.</string>
+    <string name="shaky_row1_subtitle">Something doesn\'t quite right.</string>
     <string name="shaky_bug_title">Bug Report</string>
     <string name="shaky_bug_hint">Describe the bug</string>
 
@@ -22,7 +22,7 @@
     <string name="shaky_feature_hint">Write your request</string>
 
     <string name="shaky_row3_title">Send app feedback</string>
-    <string name="shaky_row3_subtitle">Tell us how we’re doing!</string>
+    <string name="shaky_row3_subtitle">Tell us how we\'re doing!</string>
     <string name="shaky_general_title">General Feedback</string>
     <string name="shaky_general_hint">Write your feedback</string>
 
